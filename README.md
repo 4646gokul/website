@@ -45,7 +45,8 @@ Members are granted activity points when performing certain activities. These po
 3. Go to [Meetup OAuth Consumers](https://secure.meetup.com/meetup_api/oauth_consumers/) and create 2 new apps, one for development and one for production
 4. Enter the respective keys and secrets into the the `meetup.oauth_key` and `meetup.oauth_secret` keys in `settings.json`
 5. Go to [Meetup API Keys](https://secure.meetup.com/meetup_api/key/) and copy your API Key into the `meetup.api_key` keys in `settings.json`
-6. Run the app `meteor --settings settings.json`
+6. Run the app `meteor --settings settings.json`. 
+
 
 ## <a name="how-to-customize"></a> How To Customize
 
